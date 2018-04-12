@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_norm">8dp</dimen>
+    <dimen name="margin_lg">16dp</dimen>
+    <dimen name="txtsize">16sp</dimen>
+    <dimen name="btn_small">48dp</dimen>
+    <dimen name="txtLarge">24sp</dimen>
+    <dimen name="checkbox_padding">24dp</dimen>
+</resources>

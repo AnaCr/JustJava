@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+
+    <!-- Encabezamientos -->
+    <string name="coffee_name">Cappuccino ($4.89)</string>
+    <string name="quantity_txt">cantidad</string>
+    <string name="price_txt">resumen de su orden</string>
+    <string name="toppings_txt">agregar:</string>
+
+    <!-- Botones -->
+    <string name="order_btn">ordenar</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+
+    <!-- CheckBoxes (para agregar:) -->
+    <string name="whipped_cream">Crema Batida (+$1)</string>
+    <string name="chocolate">Chocolate (+$2)</string>
+
+    <!-- Respuestas -->
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+
+    <!-- EditText (Nombre) -->
+    <string name="name">Nombre</string>
+
+    <!-- TextViews -->
+    <string name="init_quantity">1</string>
+    <string name="price_num">$4.89</string>
+
+    <!-- Resumen de su Orden -->
+    <string name="email_subject">Orden de JustJava para</string>
+    <string name="order_summary_whipped_cream">\nCon Crema Batida?</string>
+    <string name="order_summary_choc">\nCon chocolate?</string>
+    <string name="order_summary_quantity">\nCantidad</string>
+    <string name="order_summary_total">\nTotal</string>
+    <string name="thanks">\nGracias!</string>
+</resources>
